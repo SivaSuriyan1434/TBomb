@@ -107,7 +107,7 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/SivaSuriyan1434//TBomb.git
 cd TBomb
 bash TBomb.sh
 ```
